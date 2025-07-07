@@ -22,12 +22,6 @@
 
 ---
 
-### 📬 Contact Me
-
-📧 Email: [r004if@gmail.com](mailto:r004if@gmail.com)  
-🐙 GitHub: [Rifan-Alghamdi](https://github.com/Rifan-Alghamdi)
-
----
 
 <p align="center">
 💡 Always learning | Always building | Always curious

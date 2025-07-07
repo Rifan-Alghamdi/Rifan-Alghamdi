@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋 I'm Rifan Alghamdi</h1>
-<h3 align="center">Computer Engineering Student | طـالبة هندسة حاسب في جامعة الطائف</h3>
+<h3 align="center">Computer Engineering Student 
 
 ---
 

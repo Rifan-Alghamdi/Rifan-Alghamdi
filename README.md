@@ -4,7 +4,7 @@
 ---
 
 🌸 Passionate about creating smart and meaningful tech  
-🤖 Curious about AI, Robotics, and how things work under the surface  
+🤖 Curious about AI, Robotics & how things work under the surface  
 💻 I love learning by building and turning ideas into real-world projects  
 
 ---
@@ -20,4 +20,10 @@
 
 ---
 
-<p align="center">✨ Keep building ✨</p>
+### 📊 GitHub Analytics
+
+![Rifan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rifan-Alghamdi&show_icons=true&theme=default)
+
+---
+
+<p align="center">Keep engineering 👩🏻‍💻✨</p>

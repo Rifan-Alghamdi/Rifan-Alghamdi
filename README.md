@@ -18,12 +18,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
 ![Tinkercad](https://img.shields.io/badge/-Tinkercad-FF6F00?style=flat&logo=tinkercad&logoColor=white)
 
----
 
-### 📊 GitHub Analytics
-
-![Rifan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rifan-Alghamdi&show_icons=true&theme=default)
-
----
 
 <p align="center">Keep engineering 👩🏻‍💻✨</p>
